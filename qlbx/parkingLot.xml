@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ParkingLots>
+    <parkingLot>
+        <idParkingLot>1</idParkingLot>
+        <sucChua>2</sucChua>
+        <soXeDangChua>0</soXeDangChua>
+        <name></name>
+    </parkingLot>
+    <parkingLot>
+        <idParkingLot>2</idParkingLot>
+        <sucChua>5</sucChua>
+        <soXeDangChua>0</soXeDangChua>
+        <name>Bãi 2</name>
+    </parkingLot>
+    <parkingLot>
+        <idParkingLot>4</idParkingLot>
+        <sucChua>4</sucChua>
+        <soXeDangChua>0</soXeDangChua>
+        <name>Bãi 4</name>
+    </parkingLot>
+</ParkingLots>

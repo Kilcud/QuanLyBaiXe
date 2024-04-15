@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehicleBacks>
+    <vehicleBack>
+        <id>1</id>
+        <parkingLot>Bãi 2</parkingLot>
+        <type>Xe máy</type>
+        <bienSoXe>29S1-2222</bienSoXe>
+        <brand>Honda</brand>
+        <timeEnter>2024-04-04T19:47:49+07:00</timeEnter>
+        <timeExit>2024-04-15T19:50:34.402+07:00</timeExit>
+        <fee>79500.0</fee>
+    </vehicleBack>
+    <vehicleBack>
+        <id>2</id>
+        <parkingLot>Bãi 1</parkingLot>
+        <type>Ô tô</type>
+        <bienSoXe>30A-8888</bienSoXe>
+        <brand>Maybach</brand>
+        <timeEnter>2024-04-01T18:40:22+07:00</timeEnter>
+        <timeExit>2024-04-15T20:15:44.541+07:00</timeExit>
+        <fee>3380000.0</fee>
+    </vehicleBack>
+    <vehicleBack>
+        <id>3</id>
+        <parkingLot>Bãi 1</parkingLot>
+        <type>Xe máy</type>
+        <bienSoXe>30A-8889</bienSoXe>
+        <brand>Lead</brand>
+        <timeEnter>2024-04-11T18:40:22+07:00</timeEnter>
+        <timeExit>2024-04-15T20:15:47.122+07:00</timeExit>
+        <fee>29400.0</fee>
+    </vehicleBack>
+    <vehicleBack>
+        <id>4</id>
+        <parkingLot>Bãi 2</parkingLot>
+        <type>Ô tô điện</type>
+        <bienSoXe>88B-1234</bienSoXe>
+        <brand>Vinfast</brand>
+        <timeEnter>2024-04-01T19:45:08+07:00</timeEnter>
+        <timeExit>2024-04-15T20:15:49.539+07:00</timeExit>
+        <fee>3370000.0</fee>
+    </vehicleBack>
+</vehicleBacks>
