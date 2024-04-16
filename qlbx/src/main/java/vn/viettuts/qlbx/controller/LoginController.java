@@ -9,8 +9,8 @@ import vn.viettuts.qlbx.view.Home;
 import vn.viettuts.qlbx.view.LoginView;
 
 public class LoginController {
-    private UserDao userDao;
-    private LoginView loginView;
+    private final UserDao userDao;
+    private final LoginView loginView;
     private Home home;
     
     public LoginController(LoginView view) {

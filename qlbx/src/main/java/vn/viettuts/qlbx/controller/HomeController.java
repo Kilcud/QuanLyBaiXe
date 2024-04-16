@@ -17,9 +17,9 @@ import vn.viettuts.qlbx.view.Home;
  * @author kilcud
  */
 public class HomeController {
-    private Home home;
-    private VehicleDao vehicleDao;
-    private VehicleBackDao vehicleBackDao; 
+    private final Home home;
+    private final VehicleDao vehicleDao;
+    private final VehicleBackDao vehicleBackDao; 
     private ParkingLotDao parkingLotDao;
     public final int SoXeToiDa = 10000;
     

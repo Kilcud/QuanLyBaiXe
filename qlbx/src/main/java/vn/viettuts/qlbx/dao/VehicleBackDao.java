@@ -16,11 +16,8 @@ import vn.viettuts.qlbx.utils.FileUtils;
 public class VehicleBackDao {
     private static final String VEHICLE_BACK_FILE_NAME = "vehicleBack.xml";
     private List<VehicleBack> listVehicleBacks;
-    private ParkingLotDao parkingLotDao;
-    //private StatisticDao statisticDao;
     
     public VehicleBackDao(){
-        //statisticDao = new StatisticDao();
         this.listVehicleBacks = readListVehicleBacks();
         if (listVehicleBacks == null) {
             listVehicleBacks = new ArrayList<>();

@@ -931,7 +931,7 @@ public class Home extends javax.swing.JFrame {
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jPanel5.setBackground(new java.awt.Color(255, 204, 255));
+        jPanel5.setBackground(new java.awt.Color(255, 153, 153));
 
         ljbSearch.setText("Tìm kiếm thông tin:");
 
@@ -973,7 +973,7 @@ public class Home extends javax.swing.JFrame {
                 .addGap(25, 25, 25))
         );
 
-        jPanel6.setBackground(new java.awt.Color(102, 255, 102));
+        jPanel6.setBackground(new java.awt.Color(204, 255, 204));
 
         jlbID.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jlbID.setText("ID");
@@ -1344,7 +1344,7 @@ public class Home extends javax.swing.JFrame {
                 .addContainerGap(17, Short.MAX_VALUE))
         );
 
-        jPanel12.setBackground(new java.awt.Color(153, 0, 255));
+        jPanel12.setBackground(new java.awt.Color(204, 204, 255));
 
         cbbTypeSortTraXe.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Theo ID", "Theo Bãi xe", "Theo Loại xe", "Theo Biển số xe", "Theo Thời gian nhận xe", "Theo Thời gian trả xe", "Theo Phí gửi xe" }));
 

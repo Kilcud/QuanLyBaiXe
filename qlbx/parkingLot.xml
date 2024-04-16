@@ -2,19 +2,25 @@
 <ParkingLots>
     <parkingLot>
         <idParkingLot>1</idParkingLot>
-        <sucChua>2</sucChua>
+        <sucChua>20</sucChua>
+        <soXeDangChua>1</soXeDangChua>
+        <name>Bãi 1</name>
+    </parkingLot>
+    <parkingLot>
+        <idParkingLot>2</idParkingLot>
+        <sucChua>50</sucChua>
+        <soXeDangChua>1</soXeDangChua>
+        <name>Bãi 2</name>
+    </parkingLot>
+    <parkingLot>
+        <idParkingLot>3</idParkingLot>
+        <sucChua>100</sucChua>
         <soXeDangChua>0</soXeDangChua>
         <name></name>
     </parkingLot>
     <parkingLot>
-        <idParkingLot>2</idParkingLot>
-        <sucChua>5</sucChua>
-        <soXeDangChua>0</soXeDangChua>
-        <name>Bãi 2</name>
-    </parkingLot>
-    <parkingLot>
         <idParkingLot>4</idParkingLot>
-        <sucChua>4</sucChua>
+        <sucChua>40</sucChua>
         <soXeDangChua>0</soXeDangChua>
         <name>Bãi 4</name>
     </parkingLot>
