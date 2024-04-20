@@ -195,7 +195,6 @@ public class Home extends javax.swing.JFrame {
     public Vehicle getVehicleInfo() {
         // validate vehicle
         if (!validateParkingLot() || !validateLoaiXe()
-                || !validateBrand()
                 || !validateBienSoXe()
                 || !validateEnterTime()
                 || !validateDate()) {
@@ -247,16 +246,6 @@ public class Home extends javax.swing.JFrame {
         if (cbbLoaiXe.getSelectedIndex() == -1){
             cbbLoaiXe.requestFocus();
             showMessage("Loại xe đang trống.");
-            return false;
-        }
-        return true;
-    }
-    
-    private boolean validateBrand() {
-        String brand = txtHangXe.getText();
-        if (brand == null || "".equals(brand.trim())) {
-            txtHangXe.requestFocus();
-            showMessage("Hãng xe không được trống.");
             return false;
         }
         return true;

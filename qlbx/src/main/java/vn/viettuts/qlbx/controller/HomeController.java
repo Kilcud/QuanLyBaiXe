@@ -546,7 +546,6 @@ public class HomeController {
         public void actionPerformed(ActionEvent e) {
             String typeSortTraXe = home.getTypeSortTraXe().trim();
             
-            List<VehicleBack> listVehicleBack = vehicleBackDao.getListVehicleBacks();
             switch (typeSortTraXe) {
                 case "Theo ID":
                     vehicleBackDao.sortVehicleBackByID();
