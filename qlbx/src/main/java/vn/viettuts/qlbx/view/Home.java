@@ -1604,8 +1604,7 @@ public class Home extends javax.swing.JFrame {
      */
     public VehicleBack getVehicleBackInfo() {
         // validate vehicle
-        if (!validateBrand()
-                || !validateBienSoXe()
+        if ( !validateBienSoXe()
                 || !validateEnterTime()
                 || !validateDate()) {
             return null;
